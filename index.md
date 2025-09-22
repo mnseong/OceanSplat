@@ -10,8 +10,10 @@ code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
 
-![Image](https://github.com/user-attachments/assets/62881322-28a5-41da-8151-6af49af9d93f)
-_**Fig. 1.** Removing noise of 3D Gaussians by adding positional noise._
+![Image](https://github.com/user-attachments/assets/b665ddbd-e839-4c98-b4a8-bd2e35cb3a52)
+_**Teaser.** OceanSplat preserves object geometry under scattering
+via trinocular view consistency, enabling high-quality reconstruc-
+tion of distant scenes by overcoming backscattering._
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
