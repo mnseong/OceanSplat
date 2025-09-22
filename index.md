@@ -2,11 +2,9 @@
 layout: project_page
 permalink: /
 
-title: OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction
-authors:
-    Minseong Kweon, Jinsun Park
-affiliations:
-    University of Minnesota, Pusan National University
+title: "OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction"
+authors: Minseong Kweon, Jinsun Park
+affiliations: University of Minnesota, Pusan National University
 paper: https://mnseong.github.io/OceanSplat
 code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
