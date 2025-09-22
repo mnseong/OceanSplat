@@ -10,8 +10,6 @@ code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
 
-![Image](https://github.com/user-attachments/assets/789de208-a74b-4f02-b42c-0b1168990c79)
-
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
@@ -26,7 +24,12 @@ We introduce OceanSplat, a novel method that captures geometric structures in sc
 
 ## Qualitative Results
 
-![Results](/static/image/oceansplat_img2.png)
-_**Fig. 2.** Qualitative results of novel view synthesis on diverse real-world underwater 3D scenes._
+![Results1](/static/image/oceansplat_img1.png)
+_**Fig. 1.** Qualitative results of novel view synthesis on diverse real-world underwater 3D scenes._
+
+## Qualitative Results
+
+![Results2](/static/image/oceansplat_img2.png)
+_**Fig. 2.** Quantitative results of novel view synthesis on SeathruNeRF and In-the-Wild datasets._
 
 > Note: This work is currently under review at double-blind conference.
