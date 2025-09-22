@@ -6,6 +6,7 @@ title: "OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consist
 authors: Minseong Kweon, Jinsun Park
 affiliations: University of Minnesota, Pusan National University
 paper: https://mnseong.github.io/OceanSplat
+video: https://drive.google.com/file/d/1GJNIi9EONIr0s7QjrAfqOD-QKVs3ZT5L/view?usp=sharing
 code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
