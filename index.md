@@ -10,8 +10,7 @@ code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
 
-![OceanSplat-Teaser](/static/image/oceansplat_img1.png)
-_**Fig. 1.** OceanSplat preserves object geometry under scattering via trinocular view consistency, enabling high-quality reconstruc- tion of distant scenes by overcoming backscattering._
+![Image](https://github.com/user-attachments/assets/789de208-a74b-4f02-b42c-0b1168990c79)
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
