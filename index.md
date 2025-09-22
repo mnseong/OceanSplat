@@ -27,7 +27,7 @@ We introduce OceanSplat, a novel method that captures geometric structures in sc
 ![Results1](/static/image/oceansplat_img1.png)
 _**Fig. 1.** Qualitative results of novel view synthesis on diverse real-world underwater 3D scenes._
 
-## Qualitative Results
+## Quantitative Results
 
 ![Results2](/static/image/oceansplat_img2.png)
 _**Fig. 2.** Quantitative results of novel view synthesis on SeathruNeRF and In-the-Wild datasets._
