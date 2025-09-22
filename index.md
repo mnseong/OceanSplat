@@ -10,7 +10,7 @@ code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
 
-![Image](https://github.com/user-attachments/assets/b665ddbd-e839-4c98-b4a8-bd2e35cb3a52)
+![Image](https://github.com/user-attachments/assets/36f72587-619f-48f6-9f50-5cc3f1c8e9f7)
 _**Teaser.** OceanSplat preserves object geometry under scattering
 via trinocular view consistency, enabling high-quality reconstruc-
 tion of distant scenes by overcoming backscattering._
@@ -26,5 +26,10 @@ We introduce OceanSplat, a novel method that captures geometric structures in sc
 </div>
 
 ---
+
+## Qualitative Results
+
+<img width="628" height="412" alt="Image" src="https://github.com/user-attachments/assets/f62411e8-2c94-4563-8bdd-90efa319d535" />
+_**Fig. 1.** Qualitative results of novel view synthesis on diverse real-world underwater 3D scenes._
 
 > Note: This work is currently under review at double-blind conference.
