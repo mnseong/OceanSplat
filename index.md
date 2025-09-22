@@ -10,7 +10,7 @@ code: https://mnseong.github.io/OceanSplat
 data: https://mnseong.github.io/OceanSplat
 ---
 
-![Image](https://github.com/user-attachments/assets/0e29aea1-e54e-4abe-aa31-e0b46b6a328e)
+![Image](https://github.com/user-attachments/assets/62881322-28a5-41da-8151-6af49af9d93f)
 _**Fig. 1.** Removing noise of 3D Gaussians by adding positional noise._
 
 <!-- Using HTML to center the abstract -->
